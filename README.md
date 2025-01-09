@@ -38,20 +38,20 @@ CHATGPT_API_KEY: "your-chatgpt-api-key"
 
 Edit config.js:
 
-                // Your wallet's private key (keep this secure!)
-                PRIVATE_KEY: "your-wallet-private-key-as-array-or-base58",
+         // Your wallet's private key (keep this secure!)
+         PRIVATE_KEY: "your-wallet-private-key-as-array-or-base58",
                 
-                // Amount of SOL to spend per trade
-                AMOUNT_TO_SPEND: 0.01,
+        // Amount of SOL to spend per trade
+        AMOUNT_TO_SPEND: 0.01,
                 
-                // Slippage tolerance (1 bp = 0.01%, 5000 = 50%)
-                SLIPPAGE_BPS: 5000,
+        // Slippage tolerance (1 bp = 0.01%, 5000 = 50%)
+        SLIPPAGE_BPS: 5000,
                 
-                // Priority fee in SOL
-                PRIORITY_FEE_SOL: 0.001,
+       // Priority fee in SOL
+        PRIORITY_FEE_SOL: 0.001,
                 
-                // RPC URL (use private RPC for better reliability)
-                RPC_URL: "https://api.mainnet-beta.solana.com"
+       // RPC URL (use private RPC for better reliability)
+        RPC_URL: "https://api.mainnet-beta.solana.com"
 
 How It Works
 
