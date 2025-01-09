@@ -25,7 +25,8 @@ git clone [repository-url]
 cd [repository-name]
 
 Install dependencies:
-npm install
+
+          npm install
 
 Edit configuration files:
 Edit SECRETS.js:
@@ -96,7 +97,7 @@ Dynamic slippage protection
 Running the Bot
 Start the bot:
 
-npm start
+         npm start
 
 The bot will:
 
